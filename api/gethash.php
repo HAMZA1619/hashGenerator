@@ -1,4 +1,5 @@
 <?php
+echo "Hello from PHP!";
 header('Content-Type: application/json');
 
 // Define the PHP function

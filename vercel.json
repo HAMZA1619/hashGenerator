@@ -1,8 +1,9 @@
 {
     "functions": {
-      "api/*.php": {
-        "runtime": "vercel-php@0.5.0"
+      "api/php-handler.js": {
+        "runtime": "nodejs18.x"
       }
     }
   }
+  
   
